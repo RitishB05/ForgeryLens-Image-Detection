@@ -51,4 +51,4 @@ A core component of our research was comparing "Heavy" vs. "Light" architectures
 * `/assets`: Standardized forensic visualizations and performance plots.
 
 ## 📜 How to Cite
-> [Your Name] & Sarthak. "ForgeryLens: Detecting Digital Image Forgery using ELA and Transfer Learning." IIT Kharagpur, 2025.
+> Ritish Bhatt & Sarthak. "ForgeryLens: Detecting Digital Image Forgery using ELA and Transfer Learning." IIT Kharagpur, 2025.
