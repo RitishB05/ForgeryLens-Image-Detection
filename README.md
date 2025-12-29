@@ -2,7 +2,7 @@
 **Academic Collaboration | IIT Kharagpur | Visual Computing**
 
 ### 👥 Authors & Contribution Breakdown
-This project was a collaborative research effort between **[Your Name]** (Roll: 25AI60R20) and **Sarthak** ([@Sarthak17376](https://github.com/Sarthak17376)) (Roll: 25AI60R11). 
+This project was a collaborative research effort between **[Your Name]**  and **Sarthak** ([@Sarthak17376](https://github.com/Sarthak17376))  
 
 **Specific Responsibilities per the IEEE Research Report:**
 * **[Your Name] (25AI60R20)**: Engineered the **Error Level Analysis (ELA)** forensic preprocessing pipeline. Implemented and benchmarked the **ResNet (18, 34, 50)** and **MobileNetV2** architectures to establish baseline detection metrics.
