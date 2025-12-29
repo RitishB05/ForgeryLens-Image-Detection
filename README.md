@@ -2,9 +2,9 @@
 **Academic Collaboration | IIT Kharagpur | Visual Computing**
 
 ### 👥 Authors & Contribution Breakdown
-This project was a collaborative research effort between **[Ritish Bhatt]**  and **Sarthak** ([@Sarthak17376](https://github.com/Sarthak17376))  
+This project was a collaborative research effort between **Ritish Bhatt**  and **Sarthak** ([@Sarthak17376](https://github.com/Sarthak17376))  
 
-**Specific Responsibilities per the IEEE Research Report:**
+**Specific Responsibilities :**
 * **Ritish Bhatt**: Engineered the **Error Level Analysis (ELA)** forensic preprocessing pipeline. Implemented and benchmarked the **ResNet (18, 34, 50)** and **MobileNetV2** architectures to establish baseline detection metrics.
 * **Sarthak**: Developed and optimized the specialized lightweight **EliteNet** and **EfficientNet** backbones. Led the **Transfer Learning** strategy and fine-tuning on the CASIA v2.0 dataset.
 * **Joint Efforts**: Conducted final **Model Evaluation**, generated comparative Confusion Matrices, and co-authored the **IEEE Conference-style report**.
